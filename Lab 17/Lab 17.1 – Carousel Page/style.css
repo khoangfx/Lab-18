@@ -1,0 +1,25 @@
+/*
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url();
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url();
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url();
+}*/
+img {
+  background-color: #000;
+  background-size: cover;
+  position: center;
+  width: 100%;
+}
+.slide {
+  height: 100px;
+}
